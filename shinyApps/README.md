@@ -1,2 +1,3 @@
-# DensityRegression
-Regression models for random density functions
+# ShinyApps for density regression models
+
+Explain how to download the apps
